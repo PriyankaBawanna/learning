@@ -1,0 +1,8 @@
+.logo {
+  cursor: pointer;
+  display: flex;
+
+  align-items: center;
+  margin: 14px;
+  /* give margib of 14 */
+}
